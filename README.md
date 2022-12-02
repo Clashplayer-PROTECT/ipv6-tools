@@ -52,19 +52,19 @@ Examples of network ranges (All areas in bold are free and usable):
 ### <img src="./assets/icons/warning.png" width="20" height="20" style="float: left; margin-top: 11px; margin-right: 9px;"></img> Extreme price variations, especially for ASNs - compare before you buy !
 
 - https://as210631.net
-- https://securebit.ch
-- https://dyjix.eu
-- https://lir.services
-- https://ifog.ch
-- https://bakker-it.eu
-- https://flokinet.is
-- https://myroot.pw
-- https://ip6.im
-- https://hostus.us
-- https://freerangecloud.com
-- https://snapserv.net
-- https://servperso.net
-- https://route48.org
+- https://securebit.ch (/44 15EUR/yr, /43 30EUR/yr etc.)
+- https://dyjix.eu 
+- https://lir.services (/48 100EUR/yr, /44 300EUR/yr)
+- https://ifog.ch (/48-/44 30EUR/yr)
+- https://bakker-it.eu (/48 25EUR/yr)
+- https://flokinet.is 
+- https://myroot.pw (/48-/40 60EUR/yr)
+- https://ip6.im (/48-/40 **free**, /39 15EUR one-time)
+- https://hostus.us 
+- https://freerangecloud.com (/48 5-8EUR/yr, /44 30-50EUR/yr, /40 10-20EUR/mo)
+- https://snapserv.net (/44 25EUR/yr, /43 50EUR/yr etc.)
+- https://servperso.net (/44 20EUR/yr, /36 50EUR/mo)
+- https://route48.org (/48-/44 **free**)
 - https://august.tw
 
 ## <img src="./assets/icons/dns.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> DNS Services (& rDNS)
