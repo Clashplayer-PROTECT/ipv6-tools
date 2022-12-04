@@ -51,7 +51,6 @@ Examples of network ranges (All areas in bold are free and usable):
 
 ### <img src="./assets/icons/warning.png" width="20" height="20" style="float: left; margin-top: 11px; margin-right: 9px;"></img> Extreme price variations, especially for ASNs - compare before you buy !
 
-- https://as210631.net
 - https://securebit.ch (/44 15EUR/yr, /43 30EUR/yr etc.)
 - https://dyjix.eu 
 - https://lir.services (/48 100EUR/yr, /44 300EUR/yr)
