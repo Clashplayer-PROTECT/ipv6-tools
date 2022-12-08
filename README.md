@@ -64,7 +64,7 @@ Examples of network ranges (All areas in bold are free and usable):
 - https://snapserv.net (/44 25EUR/yr, /43 50EUR/yr etc.)
 - https://servperso.net (/44 20EUR/yr, /36 50EUR/mo)
 - https://route48.org (/48-/44 **free**)
-- https://august.tw
+- https://august.tw (ASN+/40 15USD/yr)
 
 ## <img src="./assets/icons/dns.png" width="30" height="30" style="float: left; margin-top: 8px; margin-right: 10px;"></img> DNS Services (& rDNS)
 
